@@ -2,3 +2,5 @@ pytubefix
 simplejson
 tk
 threading
+fastapi
+uvicorn[standard]
